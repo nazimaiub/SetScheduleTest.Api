@@ -1,0 +1,10 @@
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\bin\Debug\netstandard2.0\SetScheduleTest.Models.deps.json
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\bin\Debug\netstandard2.0\SetScheduleTest.Models.dll
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\bin\Debug\netstandard2.0\SetScheduleTest.Models.pdb
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\obj\Debug\netstandard2.0\SetScheduleTest.Models.csproj.AssemblyReference.cache
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\obj\Debug\netstandard2.0\SetScheduleTest.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\obj\Debug\netstandard2.0\SetScheduleTest.Models.AssemblyInfoInputs.cache
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\obj\Debug\netstandard2.0\SetScheduleTest.Models.AssemblyInfo.cs
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\obj\Debug\netstandard2.0\SetScheduleTest.Models.csproj.CoreCompileInputs.cache
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\obj\Debug\netstandard2.0\SetScheduleTest.Models.dll
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Models\obj\Debug\netstandard2.0\SetScheduleTest.Models.pdb

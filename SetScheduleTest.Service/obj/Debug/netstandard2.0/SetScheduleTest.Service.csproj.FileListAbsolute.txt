@@ -1,0 +1,15 @@
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\bin\Debug\netstandard2.0\SetScheduleTest.Service.deps.json
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\bin\Debug\netstandard2.0\SetScheduleTest.Service.dll
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\bin\Debug\netstandard2.0\SetScheduleTest.Service.pdb
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\bin\Debug\netstandard2.0\SetScheduleTest.Models.dll
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\bin\Debug\netstandard2.0\SetScheduleTest.Repository.dll
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\bin\Debug\netstandard2.0\SetScheduleTest.Models.pdb
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\bin\Debug\netstandard2.0\SetScheduleTest.Repository.pdb
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.csproj.AssemblyReference.cache
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.AssemblyInfoInputs.cache
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.AssemblyInfo.cs
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.csproj.CoreCompileInputs.cache
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.csproj.CopyComplete
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.dll
+D:\New folder\TechTest\SetScheduleTest.Api\SetScheduleTest.Service\obj\Debug\netstandard2.0\SetScheduleTest.Service.pdb
